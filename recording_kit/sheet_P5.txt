@@ -1,0 +1,130 @@
+RECORDING SHEET  —  reader P5
+============================================================
+
+RECORDING INSTRUCTIONS  —  please read before starting
+
+You are reading 10 short customer-support conversations out loud.
+Each one takes about 20 seconds. The whole thing should take 20-30 minutes.
+
+SETUP
+  * Find a quiet room. Background hum is fine; a TV or other people talking is not.
+  * Use your phone's voice recorder. No app to install.
+  * Hold the phone about an arm's length away - roughly 20-30 cm. Do NOT hold it
+    right against your mouth, it distorts.
+
+HOW TO READ
+  * Each conversation has two people, AGENT and CUSTOMER. You read BOTH parts.
+    Just read straight through as if reading a short script aloud.
+  * Read at a normal conversational pace. Do NOT slow down or over-pronounce the
+    names and numbers - that is the single most important thing. We are measuring
+    how speech recognition copes with ordinary speech.
+  * Numbers are written out as words. Read them exactly as written.
+  * IF YOU STUMBLE, KEEP GOING. Small stumbles, repeated words and "um" are
+    genuinely useful to us. Only start a recording over if you lose your place
+    completely.
+
+SAVING AND SENDING
+  * One recording per conversation - 10 files in total.
+  * Rename each file to just its number: 1, 2, 3 ... 10
+    (matching the "RECORDING n" heading below)
+  * Send all 10 files to Alex, unedited. Do not trim or clean them up.
+
+
+
+============================================================
+
+RECORDING 1          (save this file as: 1)
+------------------------------------------------------------
+  AGENT     I can book that appointment. Name please?
+  CUSTOMER  Prince Desai.
+  AGENT     Contact number?
+  CUSTOMER  eight eight four eight three five zero seven three eight.
+  AGENT     And email for the reminder?
+  CUSTOMER  prince dot desai at gmail dot com.
+  AGENT     You're confirmed for Thursday at four.
+
+
+RECORDING 2          (save this file as: 2)
+------------------------------------------------------------
+  AGENT     I can complete the verification over the call if you have the documents handy.
+  CUSTOMER  Yes I do. Aadhaar first? It's forty four, seventy one, eighty five, eighty nine, forty six, fifteen.
+  AGENT     Thank you. Could you also read out the PAN?
+  CUSTOMER  Sure, N-D-O-T-P-zero-one-nine-eight-X.
+  AGENT     And an email to send the acknowledgement?
+  CUSTOMER  lovely dot nambiar at yahoo dot com.
+
+
+RECORDING 3          (save this file as: 3)
+------------------------------------------------------------
+  AGENT     We have a meter reading discrepancy at the property. Who am I speaking to?
+  CUSTOMER  Amitesh Nair, I'm the owner.
+  AGENT     Could you share a contact number for the meter reader?
+  CUSTOMER  seventy seven, thirty six, thirty one, seventy five, zero five.
+  AGENT     Someone will visit this week.
+
+
+RECORDING 4          (save this file as: 4)
+------------------------------------------------------------
+  AGENT     Can I get an address so the technician knows where to come?
+  CUSTOMER  Palm Grove Enclave, Kalyan Nagar main road. It's a bit tricky, opposite the old bus stand.
+  AGENT     Noted, and your name for the job card?
+  CUSTOMER  Deepa.
+
+
+RECORDING 5          (save this file as: 5)
+------------------------------------------------------------
+  AGENT     Metro Broadband fraud desk, this is Rahul. We've flagged a transaction on your card.
+  CUSTOMER  I was worried about that. My name is Pearl Sharma.
+  AGENT     For security, could you confirm the PAN linked to this account?
+  CUSTOMER  It's S-F-K-J-S-seven-three-nine-two-B.
+  AGENT     Thank you. I'm blocking the card now and a replacement will be sent.
+
+
+RECORDING 6          (save this file as: 6)
+------------------------------------------------------------
+  AGENT     Has your PAN been linked with Aadhaar already?
+  CUSTOMER  I'm not sure. The PAN is B-W-U-I-W-six-four-zero-four-W.
+  AGENT     Let me check. Could you read the Aadhaar as well?
+  CUSTOMER  two two six, seven seven seven, nine three six, five six nine.
+  AGENT     They are linked. Nothing further is needed.
+
+
+RECORDING 7          (save this file as: 7)
+------------------------------------------------------------
+  AGENT     I can add you to the priority support list. Which email should I use?
+  CUSTOMER  Use sneha dot shetty at outlook dot com please, and the name is Sneha Shetty.
+  AGENT     Added. You'll get a confirmation shortly.
+
+
+RECORDING 8          (save this file as: 8)
+------------------------------------------------------------
+  AGENT     CityFirst Bank here. You'd requested a SIM replacement, is that right?
+  CUSTOMER  Yes, I lost my phone yesterday.
+  AGENT     I'll need the Aadhaar number used at the time of activation.
+  CUSTOMER  It's five two seven four two three two seven six five one seven.
+  AGENT     And the number to be replaced?
+  CUSTOMER  six double one nine one eight four five three zero.
+  AGENT     The new SIM will be delivered to your registered address.
+
+
+RECORDING 9          (save this file as: 9)
+------------------------------------------------------------
+  AGENT     Hello, this is Sneha from Bluestar Bank calling regarding your pending KYC update.
+  CUSTOMER  Oh yes, I've been meaning to finish that.
+  AGENT     Could you confirm your full name as it appears on the document?
+  CUSTOMER  It's Honey Gupta.
+  AGENT     And your Aadhaar number please?
+  CUSTOMER  It's sixty seven, fifty four, fifty two, twenty, thirty eight, twelve.
+  AGENT     Noted. I'll also need your PAN.
+  CUSTOMER  S-H-J-M-S-seven-nine-five-two-L.
+
+
+RECORDING 10          (save this file as: 10)
+------------------------------------------------------------
+  AGENT     Good morning, Sunrise Insurance logistics. Am I speaking to Honey?
+  CUSTOMER  Speaking.
+  AGENT     We have a package for Sree Nilayam, Jubilee Hills Road number ten. Is someone available there today?
+  CUSTOMER  Yes, but the gate is hard to find. It's just after the flyover.
+  AGENT     Noted. Best number to call on arrival?
+  CUSTOMER  double eight double eight one zero three seven six nine.
+
